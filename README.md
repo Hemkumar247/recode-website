@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <a href="https://www.recodehive.com">
     <img src="https://github.com/recodehive/recode-website/blob/main/static/icons/Logo-512X512.png" alt="recode Logo" width="150" />
   </a>
@@ -186,4 +186,4 @@ Happy open-source contributions and here’s to your career success! 🎉
   <img src="https://img.shields.io/badge/⬆️-Back%20to%20Top-red?style=for-the-badge" align="right"/>
 </a>
 
-</div>
+ </div>
