@@ -14,16 +14,12 @@ We're the exclusive platform offering a comprehensive tech curriculum, taught by
 
 ## Features
 - **In-Depth Tutorials**: Dive into comprehensive tutorials covering a wide range of programming languages like C++, Java, Python, JavaScript and Typescript and frameworks like ReactJS along with Data Structures and Algorithms.
-<!-- ![](/assets/Tutorials.png) -->
 
 - **Courses for Mastery**: Enroll in structured courses designed to take your skills to the next level. They range from learning a particular language and implementing them hands-on as projects to enhance learning.
-<!-- ![](/assets/Courses.png) -->
 
 - **Inspiring Showcases**: Explore inspiring showcases of real-world projects and innovative web solutions.
-<!-- ![](/assets/Showcase.png) -->
 
 - **Engaging Community**: Connect with a vibrant community of developers, share knowledge, and collaborate on projects.
-<!-- ![](/assets/Community.png) -->
 
 ## Contributing Guidelines
 

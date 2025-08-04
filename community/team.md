@@ -17,7 +17,7 @@ CodeHarborHub was founded by [Ajay Dhangar](https://www.linkedin.com/in/ajay-dha
 
 ## Contributing {#contributing}
 
-If you are interested in joining the team, or would like to contribute to the OpenMined community, please refer to our [Contributing Guidelines](/community/contributing-guidelines).
+If you are interested in joining the team, or would like to contribute to the OpenMined community, please refer to our [Contributing Guidelines](./contributing-guidelines.md).
 
 ## Contributors {#contributors}
 

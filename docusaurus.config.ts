@@ -12,15 +12,15 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://recodehive.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "codeharborhub", // Usually your GitHub org/user name.
+  projectName: "recodehive", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -41,8 +41,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/codeharborhub/recodehive/tree/main/",
         },
         blog: {
           showReadingTime: true,
@@ -52,8 +51,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/codeharborhub/recodehive/tree/main/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -98,26 +96,6 @@ const config: Config = {
             </div>`,
             },
 
-            {
-              type: "html",
-              value: '<hr style="margin: 0.3rem 0;">',
-            },
-
-            {
-              type: "html",
-              value: `<div class="grid grid-cols-3 gap-4">
-              <a class="border-r col-span-1" href="/courses/"> Courses </a>
-              <div class="grid grid-cols-4 col-span-2">
-                <a href="/courses/category/html" class="nav__icons"> <img src="/icons/html-5.svg" alt="HTML" /> </a>
-                <a href="/courses/category/reactjs/" class="nav__icons"> <img src="/icons/jsx.svg" alt="React" /> </a>
-              </div>
-            </div>`,
-            },
-
-            {
-              type: "html",
-              value: '<hr style="margin: 0.3rem 0;">',
-            },
 
             {
               type: "html",
@@ -154,10 +132,6 @@ const config: Config = {
           html: '<span class="nav-emoji">🔗</span> More',
           position: "left",
           items: [
-            {
-              label: "Projects",
-              to: "/projects/",
-            },
             {
               label: "📚 E-books",
               to: "/ebooks/",
@@ -262,7 +236,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Recode Hive. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
